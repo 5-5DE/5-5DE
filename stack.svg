@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">HTML · estructura. CSS · diseño y animación. JavaScript · interacción.</title>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="1" y="1" width="382" height="148" rx="18" fill="#191223" stroke="#50336e"/>
+    <rect x="409" y="1" width="382" height="148" rx="18" fill="#21132f" stroke="#69418c"/>
+    <rect x="817" y="1" width="382" height="148" rx="18" fill="#2a153c" stroke="#8753af"/>
+    <rect x="26" y="43" width="64" height="64" rx="16" fill="#332045"/>
+    <rect x="434" y="43" width="64" height="64" rx="16" fill="#432358"/>
+    <rect x="842" y="43" width="64" height="64" rx="16" fill="#5b2c78"/>
+    <g font-family="Consolas, monospace" fill="#dec5ff" font-size="25" font-weight="700" text-anchor="middle">
+      <text x="58" y="84">H</text><text x="466" y="84">C</text><text x="874" y="84">JS</text>
+    </g>
+    <g fill="#f3e9ff" font-size="29" font-weight="650"><text x="111" y="70">HTML</text><text x="519" y="70">CSS</text><text x="927" y="70">JavaScript</text></g>
+    <g fill="#bda4d4" font-size="20"><text x="111" y="103">Estructura</text><text x="519" y="103">Diseño y animación</text><text x="927" y="103">Interacción</text></g>
+  </g>
+</svg>

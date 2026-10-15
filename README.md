@@ -10,10 +10,6 @@
 
 ## Hola, soy Diego
 
-Exploro el **desarrollo web** a través de proyectos con **HTML, CSS y JavaScript**. Este es mi espacio para compartir código, probar ideas y experimentar con lo visual.
-
-> De una idea pequeña a algo que se mueve en la pantalla.
-
 ### 01 / Tecnologías
 
 <img src="https://raw.githubusercontent.com/5-5DE/5-5DE/main/stack.svg" alt="HTML: estructura · CSS: diseño y animación · JavaScript: interacción" width="100%" />

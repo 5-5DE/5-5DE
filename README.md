@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/5-5DE?tab=repositories">Explorar repositorios</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/5-5DE/Particulas">Ver Particulas ↗</a>
-</p>
+
 
 <img src="https://raw.githubusercontent.com/5-5DE/5-5DE/main/hero.svg?v=2" alt="Hola, soy Diego · 5-5DE" width="100%" />
 

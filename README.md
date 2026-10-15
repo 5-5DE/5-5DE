@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/5-5DE/5-5DE/main/hero.svg" alt="Diego Soto · 5-5DE — Ideas que toman forma en código" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/5-5DE?tab=repositories">Explorar repositorios</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/5-5DE/Particulas">Ver Particulas ↗</a>

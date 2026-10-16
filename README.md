@@ -4,7 +4,7 @@
 
 Tecnologías
 
-<img src="https://raw.githubusercontent.com/5-5DE/5-5DE/main/stack.svg" alt="HTML: estructura · CSS: diseño y animación · JavaScript: interacción" width="100%" />
+
 
 Proyecto
 
